@@ -10,6 +10,7 @@ Many industries rely on software for critical functions, and any errors or vulne
 and security protocols, which help safeguard sensitive data and ensure user safety. By leveraging these principles, software engineering helps create applications and systems 
 that not only meet user needs but also advance technological progress, impacting sectors from healthcare to finance and beyond.
 
+
 List and briefly explain the phases of the Software Development Life Cycle.
 Planning: In this initial phase, the project’s objectives, scope, and feasibility are assessed. Teams identify resources, estimate costs, 
 and set project timelines. Proper planning helps reduce risks and guides the project in the right direction.
