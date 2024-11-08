@@ -35,6 +35,7 @@ upgrades, and adapting the software to new requirements, ensuring long-term usab
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 **Waterfall Methodology**
 The Waterfall model is a linear, sequential approach where each phase must be completed before moving to the next. It’s often referred to as 
 a “phased” approach with distinct stages such as requirements, design, implementation, testing, deployment, and maintenance.
